@@ -5,6 +5,7 @@
 
 ---
 
+
 # 📦 Tutorial de uso
 
 ## 1. Crear espacio de trabajo
@@ -18,6 +19,12 @@ Espace/
 ---
 
 ## 2. Descargar archivos necesarios
+
+- o directamente en la terminal usa esto recuerde solo sacar la carpeta 'Extracto'..:
+
+  ```bash
+  git clone https://github.com/Moddevelop/APF-Mod.git
+  ```
 
 Descarga todos los archivos en Python 🐍 y asegúrate de incluir la carpeta `tools`.
 
