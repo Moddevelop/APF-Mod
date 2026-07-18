@@ -27,11 +27,11 @@ ahi es donde guardara su:
 * luego de guardar su archivo de texto en binario ahi
 * ejecutas este comando en la terminal:
 
-""bash
+```bash
 
 python bin2json.py
 
-""
+```
 
 * entonces ahi se creara una carpeta llamada `extracted`
 * en esa carpeta encontraras archivos ` json ` que son editables y fácil de leer
@@ -39,11 +39,11 @@ python bin2json.py
 $ luego de que editen el archivo `json` con nuevos links y textos ahora iria reconstruir 
 el binario:
 
-""bash
+```bash
 
 python build.py
 
-""
+```
  
 *este reconstruye el binario y lo guarda dn una carpeta llamada `ouput`.
 y después toca remplazar los binarios originales del juego por las modificadas.
